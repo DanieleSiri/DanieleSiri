@@ -5,6 +5,7 @@ I started being interested in Computers in my early age, and the older I got the
 
 My strong trait is that I don't stop until I've solved the problem at hand, going deep into research if I don't know the answer or implementing what I know until I've reached a good level of satisfaction.
 
+
 <h2>Skills</h2>
 <ul>
 <li>Programming Languages: Go, Python, Bash, Java</li> 
@@ -16,12 +17,14 @@ My strong trait is that I don't stop until I've solved the problem at hand, goin
 <li>Others: web vulnerabilities, file transfer</li>
 </ul>
 
+
 <h2>Key Projects</h2>
 <a href="https://github.com/DanieleSiri/adventofcode2023">Advent of code 2023</a>
 
 <a href="https://github.com/DanieleSiri/asciiArtGenerator">Ascii Art generator in Go</a>
 
 <a href="https://github.com/DanieleSiri/TelegramSTT">Telegram bot Speech to Text (now outdated)</a>
+
 
 <h2>Current Goals</h2>
 Currently focused on improving my career and considering the path of backend developer (Go).
