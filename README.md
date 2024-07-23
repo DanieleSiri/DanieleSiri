@@ -28,6 +28,7 @@ My strong trait is that I don't stop until I've solved the problem at hand, goin
 
 <h2>Current Goals</h2>
 Currently focused on improving my career and considering the path of backend developer (Go).
+
 More than ever committed to learn new technologies, staying up to date with new cutting edge ones and improving what I already know.
 
 <h3>📫 How to reach me</h3>
