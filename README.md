@@ -18,7 +18,9 @@ My strong trait is that I don't stop until I've solved the problem at hand, goin
 
 <h2>Key Projects</h2>
 <a href="https://github.com/DanieleSiri/adventofcode2023">Advent of code 2023</a>
+
 <a href="https://github.com/DanieleSiri/asciiArtGenerator">Ascii Art generator in Go</a>
+
 <a href="https://github.com/DanieleSiri/TelegramSTT">Telegram bot Speech to Text (now outdated)</a>
 
 <h2>Current Goals</h2>
