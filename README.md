@@ -1,4 +1,4 @@
-##👋 Hi there I'm Daniele Siri and I'm a humble programmer who knows he will never know enough about one technology.
+👋 Hi there I'm Daniele Siri and I'm a humble programmer who knows he will never know enough about one technology.
 
 <h1>About me</h1>
 I started being interested in Computers in my early age, and the older I got the more curious I got about programming and technologies in general. What drives me is being able to know my stuff and share it to other people.
