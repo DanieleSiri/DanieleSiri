@@ -27,5 +27,7 @@ More than ever committed to learn new technologies, staying up to date with new 
 
 <h3>📫 How to reach me</h3>
 daniele.siri97@gmail.com
+
 <a href="https://www.linkedin.com/in/daniele-siri">LinkedIn</a>
+
 Sprizzi on Discord
